@@ -82,6 +82,6 @@ If you found this repository useful in your research, please cite it as:
   pages={108--123},
   year={2022},
   publisher={Elsevier},
-  doi={10.1016/j.isatra.2023.103470}
+  doi={10.1016/j.isatra.2022.05.036}
 }
 ```
