@@ -4,7 +4,7 @@ This repository contains MATLAB code for simulating the examples presented in ou
 
 📄 **Title**: Predefined Performance-Based Model-Free Adaptive Fractional-Order Fast Terminal Sliding-Mode Control of MIMO Nonlinear Systems  
 📰 **Journal**: ISA Transactions, 2023  
-🔗 [DOI: 10.1016/j.isatra.2023.103470](https://doi.org/10.1016/j.isatra.2023.103470)
+🔗 [DOI: 10.1016/j.isatra.2022.05.036](https://doi.org/10.1016/j.isatra.2022.05.036)
 
 ---
 
