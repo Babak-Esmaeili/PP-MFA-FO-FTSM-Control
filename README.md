@@ -10,7 +10,7 @@ This repository contains MATLAB code for simulating the examples presented in ou
 
 ## 🧠 Abstract
 
-We propose a novel model-free adaptive controller that integrates fractional-order fast terminal sliding-mode control with predefined performance constraints. The controller is designed for uncertain nonlinear MIMO systems and ensures convergence within a finite time without requiring system models. Simulation results validate the effectiveness of the method in both SISO and MIMO systems, including a simulated 2-DOF robotic manipulator.
+The purpose of this article is to tackle with the problem of data-driven robust control of multi-input multi-output discrete-time nonlinear plants under tracking error constraints and output perturbations. Thereby, based upon the concept of dynamic linearization, a novel predefined performance based model-free adaptive fractional-order fast terminal sliding-mode controller is proposed so that the tracking errors can converge and remain within a preassigned neighborhood. The presented approach does solely rely on the real-time input/output data of the process, and the transient response together with the steady-state manner of the errors can be arbitrarily predefined. In the meantime, the closed-loop behavior is investigated by mathematical analysis, and the efficiency of the method is validated through various simulation examples.
 
 ---
 
