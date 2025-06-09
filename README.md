@@ -51,7 +51,7 @@ If you're familiar with Git, you can clone the repository directly:
 
 ```bash
 git clone https://github.com/Babak-Esmaeili/pp-mfa-fo-ftsmc.git
-cd pp-mfa-fo-ftsmc/codes/example1_siso/
+cd PP-MFA-FO-FTSM-Control/codes/example1_siso/
 ```
 
 Then open MATLAB in that folder and run `main.m`.
